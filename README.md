@@ -66,10 +66,15 @@ No training overhead. Seamless deployment on any proprietary or cloud-based bill
 
 ---
 
-## 📬 Let's Connect
+## 📬 Contact & Channels
 
+* **📩 Email:** [Sehranali@hotmail.com](mailto:Sehranali@hotmail.com)
+* **📱 Phone/WhatsApp:** [+92 314 5359332](https://wa.me/923145359332)
+* **💼 Upwork Profile:** [https://www.upwork.com/freelancers/~01ff0e992c436e6a71?mp_source=share]
+* **🔗 LinkedIn:** [https://www.linkedin.com/in/syed-sehran-maqbool-b4825462/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4YA6P2pIRfeN%2FDF4aS05cw%3D%3D]
+  
 <p align="center">
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:Sehranali@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/923145359332"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="YOUR_UPWORK_LINK_HERE"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p> 
+</p>
